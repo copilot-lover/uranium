@@ -2,9 +2,8 @@
 	"schemaVersion": 1,
 	"id": "modid",
 	"version": "${version}",
-	"name": "Example mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
-	"authors": [
+	"name": "Uranium",
+	"description": "Math optimizations for minecraft!": [
 		"Me!"
 	],
 	"contact": {
@@ -30,7 +29,7 @@
 		}
 	],
 	"depends": {
-		"fabricloader": ">=0.15.0",
+		"fabricloader": ">=0.15.6",
 		"minecraft": "~1.20.4",
 		"java": ">=17",
 		"fabric-api": "*"
